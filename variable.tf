@@ -3,6 +3,6 @@ variable "msoPartnerId" {
 }
 
 variable "outOfHomeRestriction" {
-  default = "Demo work9"
+  default = "Demo work90"
 }
 
