@@ -3,6 +3,6 @@ variable "msoPartnerId" {
 }
 
 variable "outOfHomeRestriction" {
-  default = "Demo workyou"
+  default = "Demo remote"
 }
 
